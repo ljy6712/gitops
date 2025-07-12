@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: docker.io/ljy4201/nginx:latest
+          image: docker.io/ljy4201/frontend:latest
           ports:
             - containerPort: 80
 
