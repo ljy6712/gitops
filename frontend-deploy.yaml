@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: ljy4201/frontend:latest
+          image: ljy4201/frontend:8
           ports:
             - containerPort: 80
 
