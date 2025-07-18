@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: docker.io/ljy4201/frontend:latest
+          image: docker.io/ljy4201/popspace:latest
           ports:
             - containerPort: 80
 
